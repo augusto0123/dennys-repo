@@ -1,4 +1,12 @@
-# dennys-repo
+# Dennys-repo
+## Repositorio criado na aula de LDS
 
-- alteracao do arquivo .md
 
+Faculdade Fai
+
+
+- Banco de Dados
+- LDS
+- Engenharia de Software
+- 
+As aulas de LDS sao ministrada as 21h.
